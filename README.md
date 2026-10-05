@@ -19,6 +19,4 @@ Uygulamanın temel işlevlerini yerine getirebilmesi için cihazınızda aşağ�
 ## 3. Üçüncü Taraf Hizmetleri
 Uygulamamız içerisinde hiçbir üçüncü taraf reklam ağı (AdMob vb.) veya analitik takip aracı (Firebase Analytics vb.) bulunmamaktadır.
 
-## 4. İletişim
-Gizlilik politikamızla ilgili herhangi bir sorunuz veya bildiriminiz olması durumunda bizimle iletişime geçebilirsiniz:
-- **E-posta:** [E-POSTA ADRESİNİZİ BURAYA YAZIN]
+
